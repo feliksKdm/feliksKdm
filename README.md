@@ -3,9 +3,6 @@
 My name is Feliks Altymyshov. I am a Data science intern now living near New-York. 🥐
 
 ## 🛠  Technologies and tools
-
-<a name="learning-now"></a>
-# 💻 Tech Stack:
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
